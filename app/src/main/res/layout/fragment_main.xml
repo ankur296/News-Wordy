@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              xmlns:tools="http://schemas.android.com/tools"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent"
+              tools:context=".MainActivityFragment"
+              android:orientation="vertical"
+    >
+
+    <corp.seedling.news.wordy.ClearableEditText
+        android:id="@+id/edit_text_clearable"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        />
+
+    <TextView
+        android:id="@+id/meaning_textview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="@dimen/listview_margin_8"
+        android:paddingBottom="10dp"
+        android:paddingTop="10dp"
+        android:gravity="left"
+        android:textColor="@android:color/holo_blue_dark"
+        android:textStyle="italic"
+        android:fontFamily="sans-serif-condensed"
+        android:textAppearance="?android:textAppearanceSmall"
+        android:background="@color/bg_grey"
+        />
+
+
+    <ListView
+        android:id="@id/android:list"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:layout_margin="@dimen/listview_margin_8"
+        android:divider="@null"
+        />
+
+    <TextView
+        android:id="@id/android:empty"
+        android:text="@string/no_news_data"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:layout_marginTop="20dp"
+        android:visibility="gone"
+        />
+</LinearLayout>

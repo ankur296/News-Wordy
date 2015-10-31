@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\AnkurNigam\.gradle\caches\modules-2\files-2.1\com.jakewharton\butterknife\7.0.1\d5d13ea991eab0252e3710e5df3d6a9d4b21d461\butterknife-7.0.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d5d13ea991eab0252e3710e5df3d6a9d4b21d461">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\butterknife-7.0.1-b2337caf71d4895706d451a7e472ef6a0803edcd.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="57ae0d750ff83f0c738d21720224ac7ea866a094">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-4cd5632e27a7b7c16e1f311f8cf472c2cd163c69.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\libs\internal_impl-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8716243bf04bae8d6c9ca94d27b9a9be7236f0a3">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.0-096ca4c392d8f8cd8e06d747d33609a388ed415f.jar" />
+    </item>
+    <item
+        jar="C:\Users\AnkurNigam\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.0\support-annotations-23.1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="92e3fc113ec3ee36b64603a38857b95700025633">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.0-f1462cdeee80d96c836ecf1c4a975b89df3bd2b5.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="3f151e49c316a5ab2c065969a3b3b55ef9b393fc">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-5de692067aa11601270714498f4ce7f57feae0f7.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ddde541c289c8b816a8f8fd6c325d80788c522a6">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-b4e7e681a650ca68e24e55df06214297c4e27814.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="95758a2905669affbffc5ddd262921d375674fad">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-d5a11034d9b2eb5db184ded0ecef6df80d86bf38.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="997773777cf3904c11d6764fe3b7668538220e49">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-cfb64cf682cfb52539ee375d8060704bba5b602d.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4477ea44f5ec5ad064022a22691732d7638ff197">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-8bdaff33ebb0c914e7d1fee1a54a6562878437ba.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d0dda274b703dd9c5bb056867649d22b4171ae7d">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-2d2cdda069003dd47b5efbbde31c92f5a0365db5.jar" />
+    </item>
+    <item
+        jar="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\exploded-aar\com.android.support\design\23.1.0\jars\classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="19026d31f5d3ae868db81319671a642be5fbba08">
+        <dex dex="D:\study\MyApps\Nanodegree\Wordlier\app\build\intermediates\pre-dexed\debug\classes-8aef1db686976313905bd9b4ccca01314eb7928f.jar" />
+    </item>
+
+</items>

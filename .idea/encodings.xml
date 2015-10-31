@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/corp/seedling/news/wordy/DetailActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/corp/seedling/news/wordy/DetailFragment.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/corp/seedling/news/wordy/sync/MyAuthenticator.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/corp/seedling/news/wordy/sync/MyAuthenticatorService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/corp/seedling/news/wordy/widget/DetailWidgetProvider.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/corp/seedling/news/wordy/widget/DetailWidgetRemoteViewsService.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-nodpi" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable-nodpi/widget_preview.png" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/drawable/touch_selector_white.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp-port" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout-sw600dp-port/activity_main.xml" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/activity_detail.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/widget_detail.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/layout/widget_detail_list_item.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_action_cancel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/ic_action_search.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_action_cancel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/ic_action_search.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_action_cancel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/ic_action_search.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_action_cancel.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/ic_action_search.png" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v11" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values-v14" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/values/bools.xml" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/res/xml" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

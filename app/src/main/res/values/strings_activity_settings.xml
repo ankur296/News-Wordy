@@ -1,0 +1,58 @@
+<resources>
+    <string name="title_activity_settings">Settings</string>
+
+    <!-- Label for the sort by preference -->
+    <string name="pref_sort_by_key">SortBy</string>
+    <string name="pref_category_key">Category</string>
+    <string name="pref_adult_key">AdultFilter</string>
+
+    <string name="pref_title_sort_by">Sort By</string>
+    <string-array name="pref_sort_by_list_titles">
+        <item>Date</item>
+        <item>Relevance</item>
+    </string-array>
+
+    <string-array name="pref_sort_by_list_values">
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="pref_title_category">Category</string>
+    <string-array name="pref_category_list_titles">
+        <item>All</item>
+        <item>Sports</item>
+        <item>Politics</item>
+        <item>Entertainment</item>
+        <item>Health</item>
+        <item>Business</item>
+        <item>World</item>
+        <item>US</item>
+        <item>Science and Tech</item>
+    </string-array>
+
+    <string-array name="pref_category_list_values">
+        <item>8</item>
+        <item>7</item>
+        <item>6</item>
+        <item>5</item>
+        <item>4</item>
+        <item>3</item>
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+    <string name="pref_title_adult_filter">Adult Filter</string>
+    <string-array name="pref_adult_filter_list_titles">
+        <item>Off</item>
+        <item>Moderate</item>
+        <item>Strict</item>
+    </string-array>
+
+    <string-array name="pref_adult_filter_list_values">
+        <item>2</item>
+        <item>1</item>
+        <item>0</item>
+    </string-array>
+
+</resources>
